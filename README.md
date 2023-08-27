@@ -13,5 +13,4 @@ A basic Python programming course will help me become proficient in some Python 
 - Project
 
 ### Resources
-
-- (Python Fundamentals)[https://tek4.vn/khoa-hoc/lap-trinh-python-can-ban]
+(Python Fundamentals)[https://tek4.vn/khoa-hoc/lap-trinh-python-can-ban]
